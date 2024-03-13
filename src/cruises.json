@@ -1,0 +1,322 @@
+[
+  {
+    "sailFromDate": "2024-02-20",
+    "sailToDate": "2024-02-25",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 799,
+      "balcony": 1399,
+      "suite": 2699
+    }
+  },
+  {
+    "sailFromDate": "2024-03-25",
+    "sailToDate": "2024-04-01",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 749,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2024-04-10",
+    "sailToDate": "2024-04-20",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2024-05-15",
+    "sailToDate": "2024-05-20",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 899,
+      "balcony": 1499,
+      "suite": 2999
+    }
+  },
+  {
+    "sailFromDate": "2024-06-20",
+    "sailToDate": "2024-06-27",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2024-07-25",
+    "sailToDate": "2024-08-04",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 799,
+      "balcony": 1399,
+      "suite": 2699
+    }
+  },
+  {
+    "sailFromDate": "2024-08-30",
+    "sailToDate": "2024-09-04",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2024-09-10",
+    "sailToDate": "2024-09-17",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 799,
+      "balcony": 1399,
+      "suite": 2699
+    }
+  },
+  {
+    "sailFromDate": "2024-10-15",
+    "sailToDate": "2024-10-25",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2024-11-20",
+    "sailToDate": "2024-11-25",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 899,
+      "balcony": 1499,
+      "suite": 2999
+    }
+  },
+  {
+    "sailFromDate": "2024-12-25",
+    "sailToDate": "2025-01-01",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 749,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2025-01-10",
+    "sailToDate": "2025-01-20",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2027-01-10",
+    "sailToDate": "2027-01-15",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2027-02-15",
+    "sailToDate": "2027-02-22",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 899,
+      "balcony": 1499,
+      "suite": 2999
+    }
+  },
+  {
+    "sailFromDate": "2027-03-25",
+    "sailToDate": "2027-04-04",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 749,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2027-04-10",
+    "sailToDate": "2027-04-15",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 799,
+      "balcony": 1399,
+      "suite": 2699
+    }
+  },
+  {
+    "sailFromDate": "2027-05-15",
+    "sailToDate": "2027-05-22",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2027-06-20",
+    "sailToDate": "2027-06-30",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 799,
+      "balcony": 1399,
+      "suite": 2699
+    }
+  },
+  {
+    "sailFromDate": "2027-07-25",
+    "sailToDate": "2027-07-30",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2027-08-30",
+    "sailToDate": "2027-09-06",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 899,
+      "balcony": 1499,
+      "suite": 2999
+    }
+  },
+  {
+    "sailFromDate": "2027-09-10",
+    "sailToDate": "2027-09-20",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 749,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2027-10-15",
+    "sailToDate": "2027-10-20",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2027-11-15",
+    "sailToDate": "2027-11-22",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 899,
+      "balcony": 1499,
+      "suite": 2999
+    }
+  },
+  {
+    "sailFromDate": "2027-12-20",
+    "sailToDate": "2027-12-30",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 749,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2028-01-25",
+    "sailToDate": "2028-01-30",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2028-02-10",
+    "sailToDate": "2028-02-17",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 899,
+      "balcony": 1499,
+      "suite": 2999
+    }
+  },
+  {
+    "sailFromDate": "2028-03-15",
+    "sailToDate": "2028-03-25",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 749,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2028-04-20",
+    "sailToDate": "2028-04-25",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 799,
+      "balcony": 1399,
+      "suite": 2699
+    }
+  },
+  {
+    "sailFromDate": "2028-05-25",
+    "sailToDate": "2028-06-01",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2028-06-30",
+    "sailToDate": "2028-07-10",
+    "ship": "Ocean Dream",
+    "staterooms": {
+      "interior": 799,
+      "balcony": 1399,
+      "suite": 2699
+    }
+  },
+  {
+    "sailFromDate": "2028-07-10",
+    "sailToDate": "2028-07-15",
+    "ship": "Sunset Paradise",
+    "staterooms": {
+      "interior": 699,
+      "balcony": 1299,
+      "suite": 2499
+    }
+  },
+  {
+    "sailFromDate": "2028-08-15",
+    "sailToDate": "2028-08-22",
+    "ship": "Island Serenity",
+    "staterooms": {
+      "interior": 899,
+      "balcony": 1499,
+      "suite": 2999
+    }
+  }
+]
