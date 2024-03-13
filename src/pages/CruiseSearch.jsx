@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import CruiseDates from '../components/cruiseDates';
+import CruiseDates from '../components/CruiseDates';
 import NavBar from '../components/NavBar';
-import FilterSearch from '../components/FilterSearch';
 
 function CruiseSearch() {
 
